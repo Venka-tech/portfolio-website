@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Fearless in the pursuit of what’s next.</title>
+  Fearless in the pursuit of what’s next.
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
